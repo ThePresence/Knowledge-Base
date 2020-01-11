@@ -1,3 +1,7 @@
+- [Notes](#notes)
+- [Types of copyright for music](#types-of-copyright-for-music)
+- [Links](#links)
+
 ## Notes
 - Music Publishing & Sound Recording Royalty
 - Composition = Melody and Lyrics
