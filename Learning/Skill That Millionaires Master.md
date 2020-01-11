@@ -1,0 +1,11 @@
+- Persuasion
+- Reading people
+- Sharing Wealth
+- Leverage
+- Recruting
+- Energy Management
+- How to process issues
+- Time Management
+- How to manage money
+- How to be aggressively Patience
+- Learning

@@ -1,0 +1,8 @@
+- We all have shadow (Dark Side of our personality) - **Selfish, Cruel, Egocentric**
+- You become Limitless - When you're not afraid what others think and say... and you can become more than what you're
+- Money is not the only thing in life, But it's the only thing anybody keeps track of. - Dan Pena
+- Yesterday's dreams are today's reality.
+- Once you become fearless, life becomes limitless.
+- Love yourself.
+- When the value is clear decisions are easy.
+- At the end what matters is - Have you done a lot, not learned a lot.

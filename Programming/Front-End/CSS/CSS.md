@@ -1,0 +1,2 @@
+- Inline and ID (#) or declaring !important styles will override all the CSS declarations.
+- Declare multiple classes with comma ( , )
