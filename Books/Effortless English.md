@@ -1,6 +1,7 @@
-##Directing Memory Movie
 
-    ###Positive
+## Directing Memory Movie
+
+### Positive
 
     - Think of a very happy memory. It can be anything, any memory that makes you smile. Close your eyes, smile, and think of that memory now. As you remember, notice the image or movie in your mind. What do you see? Then notice what you hear: does your movie have sound? And what about the feelings: how do you feel in this movie? Where are the feelings in your body? Do you feel vibrations in your body, or feelings of tension or relaxation? Just notice the details of this happy internal movie. 
  
@@ -12,7 +13,7 @@
 
     Congratulations, you just directed your first internal movie. You learned how to increase feelings of happiness by becoming a better director. You can use this same skill with negative memories, thoughts and beliefs.
 
-    ###Negative
+ ### Negative
 
     - Remember a negative experience with English. Perhaps it’s a bad experience from school, or a time when you felt nervous, frustrated, bored or foolish trying to speak English. As you remember this bad experience, again notice the details of your internal movie. See the memory in your mind. Notice if this movie has sound, and notice how you feel in the movie. 
  
