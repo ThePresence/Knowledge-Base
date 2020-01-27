@@ -1,9 +1,4 @@
 
-- [Angular](#angular)
-  - [To change default startup page -](#to-change-default-startup-page)
-  - [Components Basics](#components-basics)
-  - [Angular Start-up Loading](#angular-start-up-loading)
-
 # Angular
 
 ## To change default startup page -
@@ -14,7 +9,7 @@
 
 ```
 selector: 'ngx-app    // tag
-template: '<h2>Hello</h2>' 	//HTML Code
+template: '<h2>Hello</h2>' //HTML Code
 ```
 
 ## Angular Start-up Loading
