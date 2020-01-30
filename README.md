@@ -1,5 +1,5 @@
 ---
-modified: 2020-01-30T22:13:20+05:30
+modified: 2020-01-30T22:13:35+05:30
 ---
 
 # Knowledge-Base
@@ -11,6 +11,6 @@ modified: 2020-01-30T22:13:20+05:30
 - [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
 
 
-[JS Libraries](https://youtu.be/qugY8axtvWY)
+- [JS Libraries](https://youtu.be/qugY8axtvWY)
 
 Inspired by [Nikita](https://github.com/nikitavoloboev/knowledge)
