@@ -15,7 +15,7 @@
 
 ## Install pipenv
 ```
-pip install **pipenv**
+pip install pipenv
 ```
 
 ## Create Venv
