@@ -13,3 +13,7 @@ This is a great site also for visualizing how your code works: http://www.python
 Fyi, this site is great finding learning resources. Toggling "Free" in the search filter should help find most best free resources out there. https://hackr.io/
 
 Let's see what happens next
+
+### Best Tutorial
+
+[Youtube (Corey Schafer)](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
