@@ -15,7 +15,7 @@
 
 ## Install pipenv
 ```
-pip install pipenv
+pip install **pipenv**
 ```
 
 ## Create Venv
@@ -90,4 +90,3 @@ Alternatively, run a command inside the virtualenv with pipenv run.
 ## Youtube Tutorial
 
 [Setup Python Django with PostgreSQL](https://www.youtube.com/watch?v=Axh8rNKgvmk)
-
