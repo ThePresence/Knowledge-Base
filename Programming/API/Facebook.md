@@ -1,3 +1,7 @@
+---
+modified: 2020-01-30T23:05:20+05:30
+---
+
 [Insights](https://developers.facebook.com/docs/graph-api/reference/page/insights)
 
 - [Group](#group)
