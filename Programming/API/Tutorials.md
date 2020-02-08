@@ -1,5 +1,9 @@
+---
+modified: 2020-01-30T23:05:36+05:30
+---
 
 - [APIs for Beginners](https://www.youtube.com/watch?v=GZvSYJDk-us&t=766s)
+<<<<<<< HEAD
 - [RESTful API](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
 
 
@@ -11,3 +15,6 @@ Now, a customer connects to your website and your load-balancer sends him to Ser
 
 In a stateless environment, you always send along all the information needed, to finish some task - thats how just any endpoint would be able to also serve you with that task… Then it also doesn’t matter, which server would open your inbox.
   
+=======
+- [RESTful API](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
+>>>>>>> 6a3477f6cd207ede374c2498fd720fad9de478bf
