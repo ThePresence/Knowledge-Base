@@ -9,7 +9,7 @@
   - [Create admin user](#create-admin-user)
   - [Create test app](#create-test-app)
   - [To activate this project's virtualenv](#to-activate-this-projects-virtualenv)
-  - [Youtube Tutorial](#youtube-tutorial)
+  - [YouTube Tutorial](#youtube-tutorial)
 
 # Django  Commands
 
@@ -87,6 +87,6 @@ run pipenv shell.
 Alternatively, run a command inside the virtualenv with pipenv run.
 ```
 
-## Youtube Tutorial
+## YouTube Tutorial
 
 [Setup Python Django with PostgreSQL](https://www.youtube.com/watch?v=Axh8rNKgvmk)
