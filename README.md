@@ -1,2 +1,0 @@
-# Knowledge-Base
-Knowledge-Base
